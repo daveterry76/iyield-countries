@@ -4,7 +4,7 @@
 
 Welcome to the IYieldCountries search application documentation. This document provides an overview of the high-level architecture of the IYieldCountries search application, which is built using Next.js and TypeScript. IYieldCountries is a web application that enables users to search for countries by their names and codes. It leverages external data sources to provide detailed information on countries, including country name and flag. It serves as a valuable resource for geographic research and information retrieval.
 
-![](https://s11.gifyu.com/images/S4LME.gif)
+![](https://s6.gifyu.com/images/S6XIg.gif)
 
 ## Table of Contents
 
