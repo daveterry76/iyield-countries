@@ -4,5 +4,6 @@ export const CountriesDefaultState: CountriesContextTypes = {
     countries: [],
     setCountries: () => {},
     searchTerm: "",
-    setSearchTerm: () => {}
+    setSearchTerm: () => {},
+    handleSearch: () => {}
 }
