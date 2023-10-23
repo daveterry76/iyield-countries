@@ -91,7 +91,7 @@ Unit tests were written for certain key elements to ensure maintainability of th
 
 ## Deployment
 
-The IYieldCountries application is deployed on [Vercel](https://www.vercel.com/) at the following URL: [https://.vercel.app](https://.vercel.app)
+The IYieldCountries application is deployed on [Vercel](https://www.vercel.com/) at the following URL: [https://iyield-countries.vercel.app/](https://iyield-countries.vercel.app/)
 
 ## Repository
 
