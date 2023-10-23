@@ -44,13 +44,13 @@ Before you begin, make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/iyieldcountries.git
+   git clone https://github.com/your-username/iyield-countries.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd iyieldcountries
+   cd iyield-countries
    ```
 
 3. Install the project dependencies:
