@@ -15,6 +15,12 @@ Welcome to the IYieldCountries search application documentation. This document p
   - [Installation](#installation)
 - [Usage](#usage)
 - [Data Sources](#data-sources)
+- [Styling](#styling)
+- [Types](#testing)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Repository](#repository)
+- [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
 
